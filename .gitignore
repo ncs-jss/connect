@@ -1,6 +1,9 @@
 # Enviornment files
 .env
 
+# Build
+public/build/
+
 # Bower Components
 bower_components/
 
