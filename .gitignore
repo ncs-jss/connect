@@ -1,3 +1,9 @@
+# Enviornment files
+.env
+
+# Bower Components
+bower_components/
+
 # Logs
 logs
 *.log

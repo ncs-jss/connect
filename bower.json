@@ -1,0 +1,25 @@
+{
+  "name": "connect",
+  "version": "1.0.0",
+  "authors": [
+    "Nikhil Srivastava <niksrc@gmail.com>"
+  ],
+  "description": "Web interface to jss connect",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ncs-jss/connect/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "ng-file-upload": "~9.0.8"
+  }
+}
